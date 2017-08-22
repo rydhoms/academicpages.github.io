@@ -11,3 +11,7 @@ redirect_from:
 <p align="center">
   <img src="https://about.rdh.asia/images/about.png?raw=true" alt="Photo" style="width: 450px;"/>
 </p>
+
+
+Hi! I am Ridho Muhammad, a blogger from Indonesia. I love technology, so I tried many things that I met on the internet, like building a website using private server and open source cms, making projects from open source, developing android apps, etc. Therefore, I really like to make posts about technology and news about technology on my blog and of course also on social media that I have.
+
