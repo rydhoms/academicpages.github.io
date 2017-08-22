@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://about.rdh.asia/images/about.png?raw=true" alt="Photo" style="width: 450px;"/>
+  <img src="https://about.rdh.asia/images/about.png?raw=true" alt="Photo" style="max-width: 100%; height: auto;"/>
 </p>
 
 
